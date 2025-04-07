@@ -259,7 +259,7 @@ core
 .DS_Store
 
 # Data Files
-./data
+data
 
 # Scratch files
 shit.*
