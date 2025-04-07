@@ -20,7 +20,7 @@
   },
   "editor.detectIndentation": true,
   "editor.minimap.enabled": false,
-  "workbench.colorTheme": "Visual Studio Light",
+  "workbench.colorTheme": "Solarized Light",
   "python.defaultInterpreterPath": ".venv/bin/python",
   "terminal.integrated.shellIntegration.enabled": true,
   "terminal.integrated.profiles.linux": {
