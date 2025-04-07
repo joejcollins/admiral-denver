@@ -14,3 +14,6 @@ RUN apt-get --quiet update \
 # Add some labels so it looks nice in Github packages.
 LABEL org.opencontainers.image.source=https://github.com/joejcollins/admiral-denver/
 LABEL org.opencontainers.image.description="admiral-denver container."
+LABEL org.opencontainers.image.description="Python with LaTeX development image for admiral-denver"
+LABEL org.opencontainers.image.version="0.0.1"
+LABEL org.opencontainers.image.authors="Joe J Collins <joejcollins@gmail.com>"
