@@ -1,12 +1,12 @@
 {
-    "name": "Python and R Data Science Environment",
+    "name": "Python with LaTeX development image",
     "image": "ghcr.io/joejcollins/admiral-denver:latest",
     "features": {
         "ghcr.io/devcontainers/features/docker-in-docker:2": {}
     },
     "hostRequirements": {
-        "cpus": 4,
-        "memory": "7gb"
+        "cpus": 2,
+        "memory": "4gb"
     },
     "customizations": {
         "vscode": {
