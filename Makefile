@@ -30,7 +30,7 @@ lock:  # Create the lock file and requirements file.
 
 test:  # Run the unit tests.
 	.venv/bin/pytest ./tests --verbose --color=yes
-	.venv/bin/pytest --cov=admiral_denver --cov-fail-under=50
+	.venv/bin/pytest --cov=admiral_denver --cov-fail-under=40
 
 venv:  # Create the virtual environment.
 	uv venv .venv

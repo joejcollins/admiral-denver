@@ -1,18 +1,12 @@
 {
     "recommendations": [
-        "bierner.markdown-mermaid",
         "charliermarsh.ruff",
-        "eamodio.gitlens",
         "james-yu.latex-workshop",
         "mechatroner.rainbow-csv",
-        "ms-python.black-formatter",
-        "ms-python.isort",
         "ms-python.mypy-type-checker",
         "ms-python.python",
         "ms-toolsai.jupyter",
-        "RDebugger.r-debugger",
-        "redhat.vscode-xml",
-        "reditorsupport.r",
+        "ms-vscode.makefile-tools",
         "streetsidesoftware.code-spell-checker",
         "tamasfe.even-better-toml"
     ]

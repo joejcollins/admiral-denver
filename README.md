@@ -16,15 +16,6 @@ of the beaver introduction site has been transformed under beaver management.
 1. Create a model to predict the timeline for the effects of beaver introductions.
 1. Create an automated tool for predicting moisture and light levels from digital images.
 
-## Data and Analysis
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/joejcollins/admiral-denver)
-
-To use Rstudio run `rserver` in the VSCode terminal.
-
-Documents at <https://joejcollins.github.io/admiral-denver/>.
-
-
 ## To Do
 
 - [ ] Test data files, 2 files, 1 observation in one and 2 in the other.
