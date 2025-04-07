@@ -34,8 +34,6 @@
   },
   "terminal.integrated.defaultProfile.linux": "bash",
   "terminal.integrated.scrollback": 100000,
-  "r.bracketedPaste": true,
-  "r.rterm.linux": ".venv/bin/radian",
   "latex-workshop.latex.tools": [
     {
       "name": "latexmk",
