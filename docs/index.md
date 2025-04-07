@@ -26,6 +26,6 @@ of the beaver introduction site has been transformed under beaver management.
 This is an on going study and both the data and analysis in Open Source.
 You can take and look an run the analyses yourself on Gitpod.
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/joejcollins/atlanta-shore)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/joejcollins/admiral-denver)
 
 To use Rstudio run `rserver` in the VSCode terminal.

@@ -5,8 +5,10 @@
             "name": "Python: Run with --create flag",
             "type": "debugpy",
             "request": "launch",
-            "program": "${workspaceFolder}/python_src/atlanta_shore/main.py",
-            "args": ["--create"],
+            "program": "${workspaceFolder}/python_src/admiral_denver/main.py",
+            "args": [
+                "--create"
+            ],
             "console": "integratedTerminal",
             "justMyCode": false
         },

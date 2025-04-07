@@ -3,14 +3,14 @@
 
 clean:  # Remove all build, test, coverage and Python artifacts.
 	rm -rf .venv
-	rm -rf atlanta_shore.egg-info
+	rm -rf admiral_denver.egg-info
 	find . -name "*.pyc" -exec rm -f {} \;
 	find . -type f -name "*.py[co]" -delete -or -type d -name "__pycache__" -delete
 	rm -rf .R
 
 docker:  # Build the docker image (takes 6 minutes in a Codespace YMMV).
 	docker build \
-		--tag ghcr.io/earthroverprogram/erpsoiltools:latest \
+		--tag ghcr.io/earthroverprogram/admiral-denver:latest \
 		--file .devcontainer/Dockerfile \
 		.
 
@@ -28,16 +28,9 @@ lock:  # Create the lock file and requirements file.
 	rm -f requirements.txt
 	uv pip compile pyproject.toml --python .venv/bin/python --output-file=requirements.txt  requirements.in
 
-.PHONY: r # because there is a directory called r.
-r:  # Run Rstudio server
-	sudo su - rstudio -c 'rserver'
-
-rtest: lock  # Run the R tests.
-	R -e "devtools::test()"
-
 test:  # Run the unit tests.
 	.venv/bin/pytest ./tests --verbose --color=yes
-	.venv/bin/pytest --cov=atlanta_shore --cov-fail-under=50
+	.venv/bin/pytest --cov=admiral_denver --cov-fail-under=50
 
 venv:  # Create the virtual environment.
 	uv venv .venv

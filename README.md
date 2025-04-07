@@ -18,11 +18,11 @@ of the beaver introduction site has been transformed under beaver management.
 
 ## Data and Analysis
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/joejcollins/atlanta-shore)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/joejcollins/admiral-denver)
 
 To use Rstudio run `rserver` in the VSCode terminal.
 
-Documents at <https://joejcollins.github.io/atlanta-shore/>.
+Documents at <https://joejcollins.github.io/admiral-denver/>.
 
 
 ## To Do

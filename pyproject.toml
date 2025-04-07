@@ -1,5 +1,5 @@
 [project]
-name = "atlanta_shore"
+name = "admiral_denver"
 version = "0.0.1"
 authors = [
     { name = "Joe Collins", email = "joejcollins@gmail.com" },
@@ -38,17 +38,17 @@ dependencies = [
 ]
 
 [project.urls]
-"homepage" = "https://github.com/joejcollins/atlanta-shore"
-"repository" = "https://github.com/joejcollins/atlanta-shore"
-"documentation" = "https://github.com/joejcollins/atlanta-shore"
+"homepage" = "https://github.com/joejcollins/admiral-denver"
+"repository" = "https://github.com/joejcollins/admiral-denver"
+"documentation" = "https://github.com/joejcollins/admiral-denver"
 
 [project.scripts]
-run = "atlanta_shore.main:main"
+run = "admiral_denver.main:main"
 
 [tool.pytest.ini_options]
 log_cli = false
 addopts = ["-q", "--disable-warnings", "--cache-clear"]
-testpaths = ["./tests/pytest"]
+testpaths = ["./tests"]
 
 [tool.pyright]
 exclude = ["**/node_modules", "**/__pycache__"]
