@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="eTrex 10" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2019-06-20T09:01:20Z</time>
+  </metadata>
+  <wpt lat="51.972532" lon="0.440027">
+    <ele>78.786148</ele>
+    <time>2019-06-20T09:01:20Z</time>
+    <name>001</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.972543" lon="0.440444">
+    <ele>81.566406</ele>
+    <time>2019-06-20T09:44:49Z</time>
+    <name>002</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.972817" lon="0.440036">
+    <ele>74.857277</ele>
+    <time>2019-06-20T10:18:59Z</time>
+    <name>003</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.972511" lon="0.439558">
+    <ele>78.483299</ele>
+    <time>2019-06-20T10:28:27Z</time>
+    <name>004</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.972265" lon="0.439947">
+    <ele>78.831543</ele>
+    <time>2019-06-20T10:57:21Z</time>
+    <name>005</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.972259" lon="0.440552">
+    <ele>83.829605</ele>
+    <time>2019-06-20T11:22:54Z</time>
+    <name>006</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.972268" lon="0.440904">
+    <ele>76.481918</ele>
+    <time>2019-06-20T11:58:00Z</time>
+    <name>007</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971977" lon="0.441752">
+    <ele>77.678757</ele>
+    <time>2019-06-20T12:04:17Z</time>
+    <name>008</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971997" lon="0.441346">
+    <ele>78.378006</ele>
+    <time>2019-06-20T12:21:43Z</time>
+    <name>009</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971927" lon="0.440847">
+    <ele>78.538567</ele>
+    <time>2019-06-20T12:28:32Z</time>
+    <name>010</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971955" lon="0.440503">
+    <ele>81.351166</ele>
+    <time>2019-06-20T12:36:10Z</time>
+    <name>011</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.972068" lon="0.440143">
+    <ele>73.691460</ele>
+    <time>2019-06-20T12:44:31Z</time>
+    <name>012</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971742" lon="0.440424">
+    <ele>76.535278</ele>
+    <time>2019-06-20T12:48:43Z</time>
+    <name>013</name>
+    <cmt>SITE 23</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971448" lon="0.440830">
+    <ele>78.619492</ele>
+    <time>2019-06-20T13:00:57Z</time>
+    <name>014</name>
+    <cmt>
+      SITE 6
+      UP 27
+      DOWN 28
+    </cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971697" lon="0.440831">
+    <ele>84.511169</ele>
+    <time>2019-06-20T13:17:12Z</time>
+    <name>015</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971662" lon="0.441297">
+    <ele>77.566711</ele>
+    <time>2019-06-20T13:29:10Z</time>
+    <name>016</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971681" lon="0.441711">
+    <ele>79.257248</ele>
+    <time>2019-06-20T13:35:17Z</time>
+    <name>017</name>
+    <cmt>
+      SITE 22
+      UP 33
+      DOWN 34
+    </cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971661" lon="0.442189">
+    <ele>82.107620</ele>
+    <time>2019-06-20T13:44:08Z</time>
+    <name>018</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971413" lon="0.442126">
+    <ele>78.526733</ele>
+    <time>2019-06-20T13:50:56Z</time>
+    <name>019</name>
+    <cmt>
+      SITE 8
+      UP
+    </cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971453" lon="0.442554">
+    <ele>76.479599</ele>
+    <time>2019-06-20T13:56:33Z</time>
+    <name>020</name>
+    <cmt>
+      SITE 9
+      UP 39
+      DOWN 40
+    </cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

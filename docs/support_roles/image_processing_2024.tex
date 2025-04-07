@@ -1,0 +1,70 @@
+\documentclass{roles}
+
+\title{Image Analysis for Biodiversity Monitoring}
+\author{Joe Collins}
+\date{14 December 2023}
+
+\begin{document}
+
+\maketitle
+
+\section*{Background}
+
+In 2019, the Spains Hall Estate, Essex,
+initiated a nature recovery and natural flood management program by introducing beavers,
+into a fenced enclosure
+\href{https://www.spainshallestate.co.uk/nfm\_beavers}{https://www.spainshallestate.co.uk/nfm\_beavers}.
+Comprehensive monitoring of
+the hydrology, canopy cover, and botanical species composition
+has been conducted each year (2019-2023)
+to assess the impact of beavers within the enclosure.
+The data from these surveys is freely available at
+\href{https://github.com/joejcollins/atlanta-shore}{https://github.com/joejcollins/atlanta-shore}.
+An additional survey will be conducted in mid summer 2024.
+
+As part of the survey geo referenced images have been taken
+of ground and canopy cover at each of the survey points
+\href{https://joejcollins.github.io/atlanta-shore/survey-points.html}{https://joejcollins.github.io/atlanta-shore/survey-points.html}.
+The images do not provide sufficient detail to identify individual plants
+but it is hoped that the images contain sufficient information to predict
+the plant assemblages or Indicator Values
+\href{https://en.wikipedia.org/wiki/Indicator\_value}{https://en.wikipedia.org/wiki/Indicator\_value}
+from features in the images.
+
+The project uses R for statistical analysis and Python for data cleaning and preparation.
+Some familiarity with Git is needed but training can be given.
+The team includes the estate manager, two ecologists, a hydrologist and a software engineer,
+and would welcome input from a data scientist.
+
+\section*{Outcomes}
+
+The project aims to streamline botanical assessments by leveraging image data to predict Indicator Values
+\href{https://en.wikipedia.org/wiki/Indicator\_value}{https://en.wikipedia.org/wiki/Indicator\_value} and plant assemblages.
+
+The goal is to develop an algorithm that can accurately analyse images
+to provide metrics for canopy and ground cover,
+thus enabling less experienced individuals or
+botanists with limited time to assess locations efficiently
+based solely on gross/course image data.
+
+Additionally, there is a plan to create a mobile application that offers basic metrics
+for canopy and green ground cover.
+Moreover,
+this application will utilise image data to predict Indicator Values for specific locations.
+Such a tool would serve as a convenient and expedited method
+for verifying whether predictions align with actual observations on the ground.
+
+\section*{Team}
+
+Whilst the Spains Hall estate is a commercial enterprise,
+this is a volunteer lead study
+run by a collaborative team consisting of:
+
+\begin{description}
+    \item[Sarah Brockless] Ecologist \href{https://www.linkedin.com/in/sarah-brockless-833291a7/}{https://www.linkedin.com/in/sarah-brockless-833291a7/}.
+    \item[Joe Collins] Software Engineer \href{https://www.linkedin.com/in/joejcollins/}{https://www.linkedin.com/in/joejcollins/}.
+    \item[Mags Cousins] Botanist \href{https://www.researchgate.net/profile/Mags-Cousins}{https://www.researchgate.net/profile/Mags-Cousins}
+    \item[David Gasca] Hydrologist \href{https://www.linkedin.com/in/david-gasca-7830537/}{https://www.linkedin.com/in/david-gasca-7830537/}.
+\end{description}
+
+\end{document}

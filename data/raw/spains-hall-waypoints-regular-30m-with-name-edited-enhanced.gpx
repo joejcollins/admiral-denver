@@ -1,0 +1,197 @@
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="GDAL 2.4.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="51.970047186375083" minlon="0.439148723703616" maxlat="51.972832445379204" maxlon="0.445576120122641" />
+  </metadata>
+  <wpt lat="51.972814359899033" lon="0.440021368498216">
+    <name>Site 16-TL 67699 33294</name>
+    <description>Site 16-TL 67699 33294</description>
+  </wpt>
+  <wpt lat="51.972553926032681" lon="0.439570404843062">
+    <name>Site 62-TL 67669 33264</name>
+    <description>Site 62-TL 67669 33264</description>
+  </wpt>
+  <wpt lat="51.972544882572009" lon="0.440006724513027">
+    <name>Site 63-TL 67699 33264</name>
+    <description>Site 63-TL 67699 33264</description>
+  </wpt>
+  <wpt lat="51.972535837495961" lon="0.440443043953435">
+    <name>Site 01-TL 67729 33264</name>
+    <description>Site 01-TL 67729 33264</description>
+  </wpt>
+  <wpt lat="51.972275405229652" lon="0.439992080757396">
+    <name>Site 45-TL 67699 33234</name>
+    <description>Site 45-TL 67699 33234</description>
+  </wpt>
+  <wpt lat="51.972266360240717" lon="0.440428397585276">
+    <name>Site 51-TL 67729 33234</name>
+    <description>Site 51-TL 67729 33234</description>
+  </wpt>
+  <wpt lat="51.972257313636398" lon="0.440864714183560">
+    <name>Site 53-TL 67759 33234</name>
+    <description>Site 53-TL 67759 33234</description>
+  </wpt>
+  <wpt lat="51.972005927871955" lon="0.439977437231318">
+    <name>Site 33-TL 67699 33204</name>
+    <description>Site 33-TL 67699 33204</description>
+  </wpt>
+  <wpt lat="51.971996882970117" lon="0.440413751446708">
+    <name>Site 38-TL 67729 33204</name>
+    <description>Site 38-TL 67729 33204</description>
+  </wpt>
+  <wpt lat="51.971987836452918" lon="0.440850065432511">
+    <name>Site 39-TL 67759 33204</name>
+    <description>Site 39-TL 67759 33204</description>
+  </wpt>
+  <wpt lat="51.971978788320385" lon="0.441286379188682">
+    <name>Site 36-TL 67789 33204</name>
+    <description>Site 36-TL 67789 33204</description>
+  </wpt>
+  <wpt lat="51.971969738572483" lon="0.441722692715185">
+    <name>Site 37-TL 67819 33204</name>
+    <description>Site 37-TL 67819 33204</description>
+  </wpt>
+  <wpt lat="51.971727405684170" lon="0.440399105537731">
+    <name>Site 23-TL 67729 33174</name>
+    <description>Site 23-TL 67729 33174</description>
+  </wpt>
+  <wpt lat="51.971718359254105" lon="0.440835416911092">
+    <name>Site 24-TL 67759 33174</name>
+    <description>Site 24-TL 67759 33174</description>
+  </wpt>
+  <wpt lat="51.971709311208713" lon="0.441271728054826">
+    <name>Site 21-TL 67789 33174</name>
+    <description>Site 21-TL 67789 33174</description>
+  </wpt>
+  <wpt lat="51.971700261547994" lon="0.441708038968896">
+    <name>Site 22-TL 67819 33174</name>
+    <description>Site 22-TL 67819 33174</description>
+  </wpt>
+  <wpt lat="51.971691210271935" lon="0.442144349653258">
+    <name>Site 25-TL 67849 33174</name>
+    <description>Site 25-TL 67849 33174</description>
+  </wpt>
+  <wpt lat="51.971448882039958" lon="0.440820768619296">
+    <name>Site 06-TL 67759 33144</name>
+    <description>Site 06-TL 67759 33144</description>
+  </wpt>
+  <wpt lat="51.971439834081700" lon="0.441257077150634">
+    <name>Site 03-TL 67789 33144</name>
+    <description>Site 03-TL 67789 33144</description>
+  </wpt>
+  <wpt lat="51.971430784508129" lon="0.441693385452312">
+    <name>Site 04-TL 67819 33144</name>
+    <description>Site 04-TL 67819 33144</description>
+  </wpt>
+  <wpt lat="51.971421733319254" lon="0.442129693524288">
+    <name>Site 08-TL 67849 33144</name>
+    <description>Site 08-TL 67849 33144</description>
+  </wpt>
+  <wpt lat="51.971412680515066" lon="0.442566001366521">
+    <name>Site 09-TL 67879 33144</name>
+    <description>Site 09-TL 67879 33144</description>
+  </wpt>
+  <wpt lat="51.971403626095544" lon="0.443002308978971">
+    <name>Site 07-TL 67909 33144</name>
+    <description>Site 07-TL 67909 33144</description>
+  </wpt>
+  <wpt lat="51.971161307452931" lon="0.441678732165430">
+    <name>Site 54-TL 67819 33114</name>
+    <description>Site 54-TL 67819 33114</description>
+  </wpt>
+  <wpt lat="51.971152256351203" lon="0.442115037625060">
+    <name>Site 58-TL 67849 33114</name>
+    <description>Site 58-TL 67849 33114</description>
+  </wpt>
+  <wpt lat="51.971143203634213" lon="0.442551342854952">
+    <name>Site 59-TL 67879 33114</name>
+    <description>Site 59-TL 67879 33114</description>
+  </wpt>
+  <wpt lat="51.971134149301903" lon="0.442987647855064">
+    <name>Site 56-TL 67909 33114</name>
+    <description>Site 56-TL 67909 33114</description>
+  </wpt>
+  <wpt lat="51.971125093354310" lon="0.443423952625358">
+    <name>Site 57-TL 67939 33114</name>
+    <description>Site 57-TL 67939 33114</description>
+  </wpt>
+  <wpt lat="51.970882779367834" lon="0.442100381955569">
+    <name>Site 44-TL 67849 33084</name>
+    <description>Site 44-TL 67849 33084</description>
+  </wpt>
+  <wpt lat="51.970873726738013" lon="0.442536684573161">
+    <name>Site 46-TL 67879 33084</name>
+    <description>Site 46-TL 67879 33084</description>
+  </wpt>
+  <wpt lat="51.970864672492915" lon="0.442972986960978">
+    <name>Site 41-TL 67909 33084</name>
+    <description>Site 41-TL 67909 33084</description>
+  </wpt>
+  <wpt lat="51.970855616632534" lon="0.443409289118980">
+    <name>Site 42-TL 67939 33084</name>
+    <description>Site 42-TL 67939 33084</description>
+  </wpt>
+  <wpt lat="51.970846559156882" lon="0.443845591047127">
+    <name>Site 49-TL 67969 33084</name>
+    <description>Site 49-TL 67969 33084</description>
+  </wpt>
+  <wpt lat="51.970837500065954" lon="0.444281892745378">
+    <name>Site 50-TL 67999 33084</name>
+    <description>Site 50-TL 67999 33084</description>
+  </wpt>
+  <wpt lat="51.970828439359764" lon="0.444718194213691">
+    <name>Site 47-TL 68029 33084</name>
+    <description>Site 47-TL 68029 33084</description>
+  </wpt>
+  <wpt lat="51.970604249826479" lon="0.442522026521143">
+    <name>Site 30-TL 67879 33054</name>
+    <description>Site 30-TL 67879 33054</description>
+  </wpt>
+  <wpt lat="51.970595195668572" lon="0.442958326296705">
+    <name>Site 27-TL 67909 33054</name>
+    <description>Site 27-TL 67909 33054</description>
+  </wpt>
+  <wpt lat="51.970586139895417" lon="0.443394625842458">
+    <name>Site 28-TL 67939 33054</name>
+    <description>Site 28-TL 67939 33054</description>
+  </wpt>
+  <wpt lat="51.970577082506999" lon="0.443830925158359">
+    <name>Site 34-TL 67969 33054</name>
+    <description>Site 34-TL 67969 33054</description>
+  </wpt>
+  <wpt lat="51.970568023503318" lon="0.444267224244369">
+    <name>Site 35-TL 67999 33054</name>
+    <description>Site 35-TL 67999 33054</description>
+  </wpt>
+  <wpt lat="51.970558962884390" lon="0.444703523100446">
+    <name>Site 31-TL 68029 33054</name>
+    <description>Site 31-TL 68029 33054</description>
+  </wpt>
+  <wpt lat="51.970549900650198" lon="0.445139821726551">
+    <name>Site 32-TL 68059 33054</name>
+    <description>Site 32-TL 68059 33054</description>
+  </wpt>
+  <wpt lat="51.970540836800751" lon="0.445576120122641">
+    <name>Site 05-TL 68089 33054</name>
+    <description>Site 05-TL 68089 33054</description>
+  </wpt>
+  <wpt lat="51.970325718828875" lon="0.442943665862243">
+    <name>Site 10-TL 67909 33024</name>
+    <description>Site 10-TL 67909 33024</description>
+  </wpt>
+  <wpt lat="51.970316663142938" lon="0.443379962795786">
+    <name>Site 11-TL 67939 33024</name>
+    <description>Site 11-TL 67939 33024</description>
+  </wpt>
+  <wpt lat="51.970271360484602" lon="0.445561444014994">
+    <name>Site 55-TL 68089 33024</name>
+    <description>Site 55-TL 68089 33024</description>
+  </wpt>
+  <wpt lat="51.970056241973815" lon="0.442929005657585">
+    <name>Site 60-TL 67909 32994</name>
+    <description>Site 60-TL 67909 32994</description>
+  </wpt>
+  <wpt lat="51.970047186375083" lon="0.443365299978960">
+    <name>Site 61-TL 67939 32994</name>
+    <description>Site 61-TL 67939 32994</description>
+  </wpt>
+</gpx>

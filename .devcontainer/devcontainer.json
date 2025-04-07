@@ -1,0 +1,100 @@
+{
+    "name": "Python and R Data Science Environment",
+    "image": "ghcr.io/joejcollins/atlanta-shore:latest",
+    "features": {
+        "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+    },
+    "hostRequirements": {
+        "cpus": 4,
+        "memory": "7gb"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {
+                "python.defaultInterpreterPath": ".venv/bin/python",
+                "python.terminal.activateEnvironment": true,
+                "editor.formatOnSave": true,
+                "files.associations": {
+                    "*.tex": "latex"
+                },
+                "latex-workshop.latex.autoClean.run": "onBuilt",
+                "latex-workshop.latex.clean.subfolder.enabled": true,
+                "latex-workshop.latex.tools": [
+                    {
+                        "name": "latexmk",
+                        "command": "latexmk",
+                        "args": [
+                            "-synctex=1",
+                            "-interaction=nonstopmode",
+                            "-file-line-error",
+                            "-pdf",
+                            "-outdir=%OUTDIR%",
+                            "%DOC%"
+                        ],
+                        "env": {}
+                    },
+                    {
+                        "name": "pdflatex",
+                        "command": "pdflatex",
+                        "args": [
+                            "-synctex=1",
+                            "-interaction=nonstopmode",
+                            "-file-line-error",
+                            "%DOC%"
+                        ],
+                        "env": {}
+                    },
+                    {
+                        "name": "bibtex",
+                        "command": "bibtex",
+                        "args": [
+                            "%DOCFILE%"
+                        ],
+                        "env": {}
+                    }
+                ],
+                "latex-workshop.linting.chktex.enabled": true,
+                "latex-workshop.linting.chktex.exec.path": "/usr/local/bin/chktex",
+                "latex-workshop.latexindent.enabled": true,
+                "latex-workshop.latexindent.exec.path": "latexindent",
+                "latex-workshop.formatting.latexindent.args": [
+                    "-c",
+                    "%DIR%/",
+                    "%TMPFILE%",
+                    "-y=defaultIndent: '%INDENT%'"
+                ],
+                "latex-workshop.synctex.afterBuild.enabled": true
+            },
+            "extensions": [
+                "charliermarsh.ruff",
+                "james-yu.latex-workshop",
+                "mechatroner.rainbow-csv",
+                "ms-python.mypy-type-checker",
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "ms-vscode.makefile-tools",
+                "RDebugger.r-debugger",
+                "reditorsupport.r",
+                "streetsidesoftware.code-spell-checker",
+                "tamasfe.even-better-toml"
+            ]
+        }
+    },
+    "forwardPorts": [
+        8787,
+        8888
+    ],
+    "portsAttributes": {
+        "8787": {
+            "label": "Rstudio",
+            "requireLocalPort": true,
+            "onAutoForward": "openBrowser"
+        },
+        "8888": {
+            "label": "Jupyter",
+            "requireLocalPort": true,
+            "onAutoForward": "openBrowser"
+        }
+    },
+    "postCreateCommand": ". ./.devcontainer/post_create.sh | tee /tmp/post_create_log.txt"
+}

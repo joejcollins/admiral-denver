@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+    xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+    xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 10"
+    version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+                        http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd
+                        http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd
+                        http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+            <text>Garmin International</text>
+        </link>
+        <time>2022-06-26T08:15:23Z</time>
+    </metadata>
+    <wpt lat="51.971637" lon="0.440893">
+        <ele>75.510422</ele>
+        <time>2022-06-26T08:15:23Z</time>
+        <name>032</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.971941" lon="0.440885">
+        <ele>77.759499</ele>
+        <time>2022-06-26T08:31:20Z</time>
+        <name>033</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.972202" lon="0.440881">
+        <ele>77.306160</ele>
+        <time>2022-06-26T08:45:10Z</time>
+        <name>034</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.972222" lon="0.440460">
+        <ele>79.687737</ele>
+        <time>2022-06-26T08:53:39Z</time>
+        <name>035</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.972484" lon="0.440465">
+        <ele>78.486641</ele>
+        <time>2022-06-26T09:00:04Z</time>
+        <name>036</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.972493" lon="0.440019">
+        <ele>76.501152</ele>
+        <time>2022-06-26T09:13:54Z</time>
+        <name>037</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.972768" lon="0.440021">
+        <ele>79.213593</ele>
+        <time>2022-06-26T09:24:00Z</time>
+        <name>038</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.972514" lon="0.439582">
+        <ele>80.792114</ele>
+        <time>2022-06-26T09:32:32Z</time>
+        <name>039</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.972236" lon="0.440020">
+        <ele>82.157944</ele>
+        <time>2022-06-26T09:48:30Z</time>
+        <name>040</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.971967" lon="0.440045">
+        <ele>80.395248</ele>
+        <time>2022-06-26T09:57:30Z</time>
+        <name>041</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.971941" lon="0.440428">
+        <ele>85.257996</ele>
+        <time>2022-06-26T10:14:50Z</time>
+        <name>042</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.971685" lon="0.440443">
+        <ele>79.175674</ele>
+        <time>2022-06-26T10:23:24Z</time>
+        <name>043</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.971134" lon="0.441758">
+        <ele>74.085770</ele>
+        <time>2022-06-26T10:40:12Z</time>
+        <name>044</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.970819" lon="0.442556">
+        <ele>77.727173</ele>
+        <time>2022-06-26T11:00:57Z</time>
+        <name>045</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.970553" lon="0.442549">
+        <ele>76.312149</ele>
+        <time>2022-06-26T12:33:27Z</time>
+        <name>046</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.970849" lon="0.442125">
+        <ele>74.769203</ele>
+        <time>2022-06-26T12:53:09Z</time>
+        <name>047</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.970850" lon="0.442122">
+        <ele>74.915436</ele>
+        <time>2022-06-26T12:53:35Z</time>
+        <name>048</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.971102" lon="0.442132">
+        <ele>76.015945</ele>
+        <time>2022-06-26T13:14:50Z</time>
+        <name>049</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+</gpx>

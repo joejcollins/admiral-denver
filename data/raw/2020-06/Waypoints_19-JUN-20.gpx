@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 10" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+	<metadata>
+		<link href="http://www.garmin.com">
+			<text>Garmin International</text>
+		</link>
+		<time>2020-06-19T08:52:55Z</time>
+	</metadata>
+	<wpt lat="51.970860" lon="0.443864">
+		<ele>73.177505</ele>
+		<time>2020-06-19T08:52:55Z</time>
+		<name>001</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="51.970757" lon="0.444405">
+		<ele>64.012177</ele>
+		<time>2020-06-19T13:18:08Z</time>
+		<name>002</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="51.970794" lon="0.444797">
+		<ele>68.414337</ele>
+		<time>2020-06-19T13:26:23Z</time>
+		<name>003</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="51.970575" lon="0.444764">
+		<ele>71.427605</ele>
+		<time>2020-06-19T13:40:16Z</time>
+		<name>004</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="51.970467" lon="0.445135">
+		<ele>70.111549</ele>
+		<time>2020-06-19T13:54:00Z</time>
+		<name>005</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="51.970475" lon="0.445544">
+		<ele>72.038605</ele>
+		<time>2020-06-19T14:07:00Z</time>
+		<name>006</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="51.970300" lon="0.445552">
+		<ele>68.640686</ele>
+		<time>2020-06-19T14:36:45Z</time>
+		<name>007</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="51.970629" lon="0.443822">
+		<ele>69.802605</ele>
+		<time>2020-06-19T14:48:56Z</time>
+		<name>008</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+	<wpt lat="51.970613" lon="0.444263">
+		<ele>70.500877</ele>
+		<time>2020-06-19T15:09:03Z</time>
+		<name>009</name>
+		<sym>Flag, Blue</sym>
+	</wpt>
+</gpx>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 10" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+            <text>Garmin International</text>
+        </link>
+        <time>2022-06-24T18:23:09Z</time>
+    </metadata>
+    <wpt lat="51.970846" lon="0.443859">
+        <ele>75.055511</ele>
+        <time>2022-06-24T18:23:09Z</time>
+        <name>001</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.970796" lon="0.444286">
+        <ele>73.178085</ele>
+        <time>2022-06-24T18:45:48Z</time>
+        <name>002</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.970786" lon="0.444724">
+        <ele>74.828796</ele>
+        <time>2022-06-24T19:02:49Z</time>
+        <name>003</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+    <wpt lat="51.970519" lon="0.444726">
+        <ele>76.153870</ele>
+        <time>2022-06-24T19:16:02Z</time>
+        <name>004</name>
+        <sym>Flag, Blue</sym>
+    </wpt>
+</gpx>

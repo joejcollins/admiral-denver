@@ -1,0 +1,261 @@
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="GDAL 2.4.0" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <bounds minlat="51.970047186375083" minlon="0.439148723703616" maxlat="51.972832445379204" maxlon="0.445576120122641"/>
+  </metadata>
+  <wpt lat="51.972832445379204" lon="0.439148723703616">
+    <name>Sample Site 19</name>
+    <description>Sample Site 19</description>
+  </wpt>
+  <wpt lat="51.972823403446817" lon="0.439585046215676">
+    <name>Sample Site 14</name>
+    <description>Sample Site 14</description>
+  </wpt>
+  <wpt lat="51.972814359899033" lon="0.440021368498216">
+    <name>Sample Site 16</name>
+    <description>Sample Site 16</description>
+  </wpt>
+  <wpt lat="51.972805314735858" lon="0.440457690551192">
+    <name>Sample Site 20</name>
+    <description>Sample Site 20</description>
+  </wpt>
+  <wpt lat="51.972553926032681" lon="0.439570404843062">
+    <name>Sample Site 62</name>
+    <description>Sample Site 62</description>
+  </wpt>
+  <wpt lat="51.972544882572009" lon="0.440006724513027">
+    <name>Sample Site 63</name>
+    <description>Sample Site 63</description>
+  </wpt>
+  <wpt lat="51.972535837495961" lon="0.440443043953435">
+    <name>Sample Site 1</name>
+    <description>Sample Site 1</description>
+  </wpt>
+  <wpt lat="51.972526790804501" lon="0.440879363164244">
+    <name>Sample Site 2</name>
+    <description>Sample Site 2</description>
+  </wpt>
+  <wpt lat="51.972284448603233" lon="0.439555763699965">
+    <name>Sample Site 43</name>
+    <description>Sample Site 43</description>
+  </wpt>
+  <wpt lat="51.972275405229652" lon="0.439992080757396">
+    <name>Sample Site 45</name>
+    <description>Sample Site 45</description>
+  </wpt>
+  <wpt lat="51.972266360240717" lon="0.440428397585276">
+    <name>Sample Site 51</name>
+    <description>Sample Site 51</description>
+  </wpt>
+  <wpt lat="51.972257313636398" lon="0.44086471418356">
+    <name>Sample Site 53</name>
+    <description>Sample Site 53</description>
+  </wpt>
+  <wpt lat="51.97224826541671" lon="0.441301030552211">
+    <name>Sample Site 48</name>
+    <description>Sample Site 48</description>
+  </wpt>
+  <wpt lat="51.972005927871955" lon="0.439977437231318">
+    <name>Sample Site 33</name>
+    <description>Sample Site 33</description>
+  </wpt>
+  <wpt lat="51.971996882970117" lon="0.440413751446708">
+    <name>Sample Site 38</name>
+    <description>Sample Site 38</description>
+  </wpt>
+  <wpt lat="51.971987836452918" lon="0.440850065432511">
+    <name>Sample Site 39</name>
+    <description>Sample Site 39</description>
+  </wpt>
+  <wpt lat="51.971978788320385" lon="0.441286379188682">
+    <name>Sample Site 36</name>
+    <description>Sample Site 36</description>
+  </wpt>
+  <wpt lat="51.971969738572483" lon="0.441722692715185">
+    <name>Sample Site 37</name>
+    <description>Sample Site 37</description>
+  </wpt>
+  <wpt lat="51.97172740568417" lon="0.440399105537731">
+    <name>Sample Site 23</name>
+    <description>Sample Site 23</description>
+  </wpt>
+  <wpt lat="51.971718359254105" lon="0.440835416911092">
+    <name>Sample Site 24</name>
+    <description>Sample Site 24</description>
+  </wpt>
+  <wpt lat="51.971709311208713" lon="0.441271728054826">
+    <name>Sample Site 21</name>
+    <description>Sample Site 21</description>
+  </wpt>
+  <wpt lat="51.971700261547994" lon="0.441708038968896">
+    <name>Sample Site 22</name>
+    <description>Sample Site 22</description>
+  </wpt>
+  <wpt lat="51.971691210271935" lon="0.442144349653258">
+    <name>Sample Site 25</name>
+    <description>Sample Site 25</description>
+  </wpt>
+  <wpt lat="51.971682157380549" lon="0.442580660107874">
+    <name>Sample Site 26</name>
+    <description>Sample Site 26</description>
+  </wpt>
+  <wpt lat="51.971448882039958" lon="0.440820768619296">
+    <name>Sample Site 6</name>
+    <description>Sample Site 6</description>
+  </wpt>
+  <wpt lat="51.9714398340817" lon="0.441257077150634">
+    <name>Sample Site 3</name>
+    <description>Sample Site 3</description>
+  </wpt>
+  <wpt lat="51.971430784508129" lon="0.441693385452312">
+    <name>Sample Site 4</name>
+    <description>Sample Site 4</description>
+  </wpt>
+  <wpt lat="51.971421733319254" lon="0.442129693524288">
+    <name>Sample Site 8</name>
+    <description>Sample Site 8</description>
+  </wpt>
+  <wpt lat="51.971412680515066" lon="0.442566001366521">
+    <name>Sample Site 9</name>
+    <description>Sample Site 9</description>
+  </wpt>
+  <wpt lat="51.971403626095544" lon="0.443002308978971">
+    <name>Sample Site 7</name>
+    <description>Sample Site 7</description>
+  </wpt>
+  <wpt lat="51.971170356939332" lon="0.441242426476103">
+    <name>Sample Site 52</name>
+    <description>Sample Site 52</description>
+  </wpt>
+  <wpt lat="51.971161307452931" lon="0.44167873216543">
+    <name>Sample Site 54</name>
+    <description>Sample Site 54</description>
+  </wpt>
+  <wpt lat="51.971152256351203" lon="0.44211503762506">
+    <name>Sample Site 58</name>
+    <description>Sample Site 58</description>
+  </wpt>
+  <wpt lat="51.971143203634213" lon="0.442551342854952">
+    <name>Sample Site 59</name>
+    <description>Sample Site 59</description>
+  </wpt>
+  <wpt lat="51.971134149301903" lon="0.442987647855064">
+    <name>Sample Site 56</name>
+    <description>Sample Site 56</description>
+  </wpt>
+  <wpt lat="51.97112509335431" lon="0.443423952625358">
+    <name>Sample Site 57</name>
+    <description>Sample Site 57</description>
+  </wpt>
+  <wpt lat="51.971116035791418" lon="0.443860257165791">
+    <name>Sample Site 64</name>
+    <description>Sample Site 64</description>
+  </wpt>
+  <wpt lat="51.970891830382378" lon="0.441664079108246">
+    <name>Sample Site 40</name>
+    <description>Sample Site 40</description>
+  </wpt>
+  <wpt lat="51.970882779367834" lon="0.442100381955569">
+    <name>Sample Site 44</name>
+    <description>Sample Site 44</description>
+  </wpt>
+  <wpt lat="51.970873726738013" lon="0.442536684573161">
+    <name>Sample Site 46</name>
+    <description>Sample Site 46</description>
+  </wpt>
+  <wpt lat="51.970864672492915" lon="0.442972986960978">
+    <name>Sample Site 41</name>
+    <description>Sample Site 41</description>
+  </wpt>
+  <wpt lat="51.970855616632534" lon="0.44340928911898">
+    <name>Sample Site 42</name>
+    <description>Sample Site 42</description>
+  </wpt>
+  <wpt lat="51.970846559156882" lon="0.443845591047127">
+    <name>Sample Site 49</name>
+    <description>Sample Site 49</description>
+  </wpt>
+  <wpt lat="51.970837500065954" lon="0.444281892745378">
+    <name>Sample Site 50</name>
+    <description>Sample Site 50</description>
+  </wpt>
+  <wpt lat="51.970828439359764" lon="0.444718194213691">
+    <name>Sample Site 47</name>
+    <description>Sample Site 47</description>
+  </wpt>
+  <wpt lat="51.970613302369095" lon="0.442085726515812">
+    <name>Sample Site 29</name>
+    <description>Sample Site 29</description>
+  </wpt>
+  <wpt lat="51.970604249826479" lon="0.442522026521143">
+    <name>Sample Site 30</name>
+    <description>Sample Site 30</description>
+  </wpt>
+  <wpt lat="51.970595195668572" lon="0.442958326296705">
+    <name>Sample Site 27</name>
+    <description>Sample Site 27</description>
+  </wpt>
+  <wpt lat="51.970586139895417" lon="0.443394625842458">
+    <name>Sample Site 28</name>
+    <description>Sample Site 28</description>
+  </wpt>
+  <wpt lat="51.970577082506999" lon="0.443830925158359">
+    <name>Sample Site 34</name>
+    <description>Sample Site 34</description>
+  </wpt>
+  <wpt lat="51.970568023503318" lon="0.444267224244369">
+    <name>Sample Site 35</name>
+    <description>Sample Site 35</description>
+  </wpt>
+  <wpt lat="51.97055896288439" lon="0.444703523100446">
+    <name>Sample Site 31</name>
+    <description>Sample Site 31</description>
+  </wpt>
+  <wpt lat="51.970549900650198" lon="0.445139821726551">
+    <name>Sample Site 32</name>
+    <description>Sample Site 32</description>
+  </wpt>
+  <wpt lat="51.970540836800751" lon="0.445576120122641">
+    <name>Sample Site 5</name>
+    <description>Sample Site 5</description>
+  </wpt>
+  <wpt lat="51.970334772899577" lon="0.442507368698895">
+    <name>Sample Site 12</name>
+    <description>Sample Site 12</description>
+  </wpt>
+  <wpt lat="51.970325718828875" lon="0.442943665862243">
+    <name>Sample Site 10</name>
+    <description>Sample Site 10</description>
+  </wpt>
+  <wpt lat="51.970316663142938" lon="0.443379962795786">
+    <name>Sample Site 11</name>
+    <description>Sample Site 11</description>
+  </wpt>
+  <wpt lat="51.970307605841747" lon="0.443816259499483">
+    <name>Sample Site 17</name>
+    <description>Sample Site 17</description>
+  </wpt>
+  <wpt lat="51.970298546925321" lon="0.444252555973293">
+    <name>Sample Site 18</name>
+    <description>Sample Site 18</description>
+  </wpt>
+  <wpt lat="51.970289486393654" lon="0.444688852217175">
+    <name>Sample Site 13</name>
+    <description>Sample Site 13</description>
+  </wpt>
+  <wpt lat="51.970280424246738" lon="0.445125148231089">
+    <name>Sample Site 15</name>
+    <description>Sample Site 15</description>
+  </wpt>
+  <wpt lat="51.970271360484602" lon="0.445561444014994">
+    <name>Sample Site 55</name>
+    <description>Sample Site 55</description>
+  </wpt>
+  <wpt lat="51.970056241973815" lon="0.442929005657585">
+    <name>Sample Site 60</name>
+    <description>Sample Site 60</description>
+  </wpt>
+  <wpt lat="51.970047186375083" lon="0.44336529997896">
+    <name>Sample Site 61</name>
+    <description>Sample Site 61</description>
+  </wpt>
+</gpx>

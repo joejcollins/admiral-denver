@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 10" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2019-06-21T08:01:04Z</time>
+  </metadata>
+  <wpt lat="51.970302" lon="0.445607">
+    <ele>30.148430</ele>
+    <time>2019-06-21T08:01:04Z</time>
+    <name>021</name>
+    <cmt>55</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970550" lon="0.445575">
+    <ele>64.240265</ele>
+    <time>2019-06-21T08:11:33Z</time>
+    <name>022</name>
+    <cmt>5</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970569" lon="0.444661">
+    <ele>70.264900</ele>
+    <time>2019-06-21T08:26:42Z</time>
+    <name>023</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970522" lon="0.445107">
+    <ele>66.650742</ele>
+    <time>2019-06-21T08:30:06Z</time>
+    <name>024</name>
+    <cmt>32</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970848" lon="0.444727">
+    <ele>67.698830</ele>
+    <time>2019-06-21T08:38:36Z</time>
+    <name>025</name>
+    <cmt>47</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970808" lon="0.444299">
+    <ele>68.770233</ele>
+    <time>2019-06-21T08:51:17Z</time>
+    <name>026</name>
+    <cmt>50 11 12</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970525" lon="0.444265">
+    <ele>71.227661</ele>
+    <time>2019-06-21T09:03:34Z</time>
+    <name>027</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970775" lon="0.443931">
+    <ele>71.935425</ele>
+    <time>2019-06-21T09:08:46Z</time>
+    <name>028</name>
+    <cmt>49 15 16</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970582" lon="0.443731">
+    <ele>77.989532</ele>
+    <time>2019-06-21T09:19:32Z</time>
+    <name>029</name>
+    <cmt>34 17 18</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970341" lon="0.443418">
+    <ele>73.701996</ele>
+    <time>2019-06-21T09:40:56Z</time>
+    <name>030</name>
+    <cmt>11</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970570" lon="0.443331">
+    <ele>78.135941</ele>
+    <time>2019-06-21T09:46:26Z</time>
+    <name>031</name>
+    <cmt>28 21 22</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970844" lon="0.443394">
+    <ele>74.686218</ele>
+    <time>2019-06-21T10:06:04Z</time>
+    <name>032</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971099" lon="0.443493">
+    <ele>72.790657</ele>
+    <time>2019-06-21T10:13:04Z</time>
+    <name>033</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971358" lon="0.443010">
+    <ele>69.406769</ele>
+    <time>2019-06-21T10:17:55Z</time>
+    <name>034</name>
+    <cmt>7</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971124" lon="0.443055">
+    <ele>78.177216</ele>
+    <time>2019-06-21T10:58:02Z</time>
+    <name>035</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970873" lon="0.443015">
+    <ele>73.178162</ele>
+    <time>2019-06-21T11:01:13Z</time>
+    <name>036</name>
+    <cmt>41</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971152" lon="0.442496">
+    <ele>63.767288</ele>
+    <time>2019-06-21T11:07:18Z</time>
+    <name>037</name>
+    <cmt>59</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970857" lon="0.442566">
+    <ele>74.054367</ele>
+    <time>2019-06-21T11:14:18Z</time>
+    <name>038</name>
+    <cmt>46</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970654" lon="0.442559">
+    <ele>75.696350</ele>
+    <time>2019-06-21T11:21:12Z</time>
+    <name>039</name>
+    <cmt>30</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970605" lon="0.442990">
+    <ele>78.013657</ele>
+    <time>2019-06-21T11:29:02Z</time>
+    <name>040</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970342" lon="0.442974">
+    <ele>71.766685</ele>
+    <time>2019-06-21T11:33:21Z</time>
+    <name>041</name>
+    <cmt>10 41 42</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970059" lon="0.442925">
+    <ele>72.812096</ele>
+    <time>2019-06-21T11:42:24Z</time>
+    <name>042</name>
+    <cmt>60 43 44</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970073" lon="0.443421">
+    <ele>74.117126</ele>
+    <time>2019-06-21T11:50:14Z</time>
+    <name>043</name>
+    <cmt>61</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.970857" lon="0.442093">
+    <ele>78.398102</ele>
+    <time>2019-06-21T12:29:50Z</time>
+    <name>044</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971002" lon="0.442062">
+    <ele>72.740669</ele>
+    <time>2019-06-21T12:35:14Z</time>
+    <name>045</name>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971044" lon="0.441724">
+    <ele>81.322021</ele>
+    <time>2019-06-21T12:42:22Z</time>
+    <name>046</name>
+    <cmt>54</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971379" lon="0.441692">
+    <ele>73.447235</ele>
+    <time>2019-06-21T12:49:41Z</time>
+    <name>047</name>
+    <cmt>NORTH OF 54</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="51.971444" lon="0.441226">
+    <ele>77.411316</ele>
+    <time>2019-06-21T12:58:00Z</time>
+    <name>048</name>
+    <cmt>3</cmt>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

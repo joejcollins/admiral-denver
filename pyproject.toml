@@ -1,0 +1,78 @@
+[project]
+name = "atlanta_shore"
+version = "0.0.1"
+authors = [
+    { name = "Joe Collins", email = "joejcollins@gmail.com" },
+    { name = "Mags Cousins", email = "magscousins@hotmail.com" },
+]
+description = "Spains Hall data and analysis."
+license = { file = "LICENSE" }
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = [
+    "black",
+    "debugpy",         # only required for debugging, not needed for production.
+    "imageio",
+    "ipykernel",       # required for jupyter notebook in VS Code.
+    "ipympl",
+    "jupyterlab",
+    "lxml",            # for parsing GPX files.
+    "matplotlib",
+    "mkdocs-material", # theme for the documentation.
+    "mkdocs",
+    "mypy",
+    "OSGridConverter",
+    "pandas",
+    "pre-commit",
+    "pydantic",
+    "pytest",
+    "pytest-cov",
+    "radian",
+    "ruff",
+    "scikit-image",
+    "sqlite-web",
+]
+
+[project.urls]
+"homepage" = "https://github.com/joejcollins/atlanta-shore"
+"repository" = "https://github.com/joejcollins/atlanta-shore"
+"documentation" = "https://github.com/joejcollins/atlanta-shore"
+
+[project.scripts]
+run = "atlanta_shore.main:main"
+
+[tool.pytest.ini_options]
+log_cli = false
+addopts = ["-q", "--disable-warnings", "--cache-clear"]
+testpaths = ["./tests/pytest"]
+
+[tool.pyright]
+exclude = ["**/node_modules", "**/__pycache__"]
+reportMissingImports = true
+reportMissingTypeStubs = true
+pythonVersion = "3.10"
+pythonPlatform = "Linux"
+
+[tool.ruff]
+lint.select = ["F", "E", "W", "C90", "I"]
+lint.fixable = ["ALL"]
+target-version = "py310"
+exclude = [
+    ".git",
+    ".github",
+    ".pytest_cache",
+    ".venv",
+    ".vscode",
+    "__pycache__",
+]
+
+[tool.mypy]
+python_version = "3.10"
+warn_return_any = true
+warn_unused_configs = true
+follow_imports = "skip"
+ignore_missing_imports = true

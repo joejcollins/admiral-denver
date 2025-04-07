@@ -1,0 +1,34 @@
+---
+name: Run the Python and R Tests
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  run_python_tests:
+    runs-on: ubuntu-latest
+    container:
+      image: ghcr.io/joejcollins/atlanta-shore:latest
+      options: --user root # needs to be root or the checkout fails.
+    env:
+      GITHUB_PAT: ${{ secrets.PAT_NO_PERMISSIONS }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          submodules: false
+          clean: true
+
+      - name: Run Python tests.
+        run: |
+          make venv
+          make test
+
+      - name: Run R tests.
+        run: |
+          install.packages("renv")
+          renv::restore()
+          devtools::test()
+        shell: Rscript {0}
+...

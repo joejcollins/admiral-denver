@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1"
+    xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3"
+    xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1"
+    xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" creator="eTrex 10"
+    version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd
+                        http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd
+                        http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd
+                        http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+            <text>Garmin International</text>
+        </link>
+        <time>2024-06-21T08:29:14Z</time>
+    </metadata>
+    <wpt lat="51.970815" lon="0.443866">
+        <ele>76.278137</ele>
+        <time>2024-06-21T08:29:14Z</time>
+        <name>003</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970793" lon="0.444321">
+        <ele>76.092484</ele>
+        <time>2024-06-21T08:44:17Z</time>
+        <name>004</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970774" lon="0.444750">
+        <ele>72.924789</ele>
+        <time>2024-06-21T08:52:27Z</time>
+        <name>005</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970515" lon="0.444724">
+        <ele>73.061462</ele>
+        <time>2024-06-21T09:45:21Z</time>
+        <name>006</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970228" lon="0.445573">
+        <ele>68.420334</ele>
+        <time>2024-06-21T09:57:16Z</time>
+        <name>007</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970502" lon="0.445603">
+        <ele>72.389084</ele>
+        <time>2024-06-21T10:06:44Z</time>
+        <name>008</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970499" lon="0.445122">
+        <ele>71.561600</ele>
+        <time>2024-06-21T10:15:22Z</time>
+        <name>009</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970514" lon="0.444275">
+        <ele>73.999039</ele>
+        <time>2024-06-21T10:37:55Z</time>
+        <name>010</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970523" lon="0.443852">
+        <ele>73.265198</ele>
+        <time>2024-06-21T10:51:41Z</time>
+        <name>011</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970832" lon="0.443346">
+        <ele>69.984886</ele>
+        <time>2024-06-21T11:59:43Z</time>
+        <name>012</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971059" lon="0.443435">
+        <ele>77.132095</ele>
+        <time>2024-06-21T12:19:31Z</time>
+        <name>013</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971088" lon="0.442988">
+        <ele>71.930878</ele>
+        <time>2024-06-21T12:28:18Z</time>
+        <name>014</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970829" lon="0.443002">
+        <ele>69.779266</ele>
+        <time>2024-06-21T12:43:06Z</time>
+        <name>015</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970544" lon="0.442976">
+        <ele>72.001556</ele>
+        <time>2024-06-21T12:56:31Z</time>
+        <name>016</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970552" lon="0.443321">
+        <ele>72.635895</ele>
+        <time>2024-06-21T13:12:48Z</time>
+        <name>017</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970269" lon="0.443400">
+        <ele>71.303238</ele>
+        <time>2024-06-21T13:25:27Z</time>
+        <name>018</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.970008" lon="0.443392">
+        <ele>72.824982</ele>
+        <time>2024-06-21T13:40:06Z</time>
+        <name>019</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971340" lon="0.443030">
+        <ele>78.706589</ele>
+        <time>2024-06-21T14:44:24Z</time>
+        <name>028</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971359" lon="0.442591">
+        <ele>77.775330</ele>
+        <time>2024-06-21T14:57:51Z</time>
+        <name>029</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971379" lon="0.442170">
+        <ele>77.336029</ele>
+        <time>2024-06-21T15:08:40Z</time>
+        <name>030</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971642" lon="0.442184">
+        <ele>77.458496</ele>
+        <time>2024-06-21T15:20:27Z</time>
+        <name>031</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971405" lon="0.441721">
+        <ele>74.402023</ele>
+        <time>2024-06-21T15:34:28Z</time>
+        <name>032</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971658" lon="0.441764">
+        <ele>76.405212</ele>
+        <time>2024-06-21T15:45:40Z</time>
+        <name>033</name>
+        <sym>Civil</sym>
+    </wpt>
+    <wpt lat="51.971916" lon="0.441743">
+        <ele>80.009567</ele>
+        <time>2024-06-21T15:54:50Z</time>
+        <name>034</name>
+        <sym>Civil</sym>
+    </wpt>
+</gpx>

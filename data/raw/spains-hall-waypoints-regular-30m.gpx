@@ -1,0 +1,324 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 2.4.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="51.970047186375083" minlon="0.439148723703616" maxlat="51.972832445379204" maxlon="0.445576120122641"/></metadata>
+<wpt lat="51.972832445379204" lon="0.439148723703616">
+  <extensions>
+    <ogr:id>19</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972823403446817" lon="0.439585046215676">
+  <extensions>
+    <ogr:id>14</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972814359899033" lon="0.440021368498216">
+  <extensions>
+    <ogr:id>16</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972805314735858" lon="0.440457690551192">
+  <extensions>
+    <ogr:id>20</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972553926032681" lon="0.439570404843062">
+  <extensions>
+    <ogr:id>62</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972544882572009" lon="0.440006724513027">
+  <extensions>
+    <ogr:id>63</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972535837495961" lon="0.440443043953435">
+  <extensions>
+    <ogr:id>1</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972526790804501" lon="0.440879363164244">
+  <extensions>
+    <ogr:id>2</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972284448603233" lon="0.439555763699965">
+  <extensions>
+    <ogr:id>43</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972275405229652" lon="0.439992080757396">
+  <extensions>
+    <ogr:id>45</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972266360240717" lon="0.440428397585276">
+  <extensions>
+    <ogr:id>51</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972257313636398" lon="0.44086471418356">
+  <extensions>
+    <ogr:id>53</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.97224826541671" lon="0.441301030552211">
+  <extensions>
+    <ogr:id>48</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.972005927871955" lon="0.439977437231318">
+  <extensions>
+    <ogr:id>33</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971996882970117" lon="0.440413751446708">
+  <extensions>
+    <ogr:id>38</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971987836452918" lon="0.440850065432511">
+  <extensions>
+    <ogr:id>39</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971978788320385" lon="0.441286379188682">
+  <extensions>
+    <ogr:id>36</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971969738572483" lon="0.441722692715185">
+  <extensions>
+    <ogr:id>37</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.97172740568417" lon="0.440399105537731">
+  <extensions>
+    <ogr:id>23</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971718359254105" lon="0.440835416911092">
+  <extensions>
+    <ogr:id>24</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971709311208713" lon="0.441271728054826">
+  <extensions>
+    <ogr:id>21</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971700261547994" lon="0.441708038968896">
+  <extensions>
+    <ogr:id>22</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971691210271935" lon="0.442144349653258">
+  <extensions>
+    <ogr:id>25</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971682157380549" lon="0.442580660107874">
+  <extensions>
+    <ogr:id>26</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971448882039958" lon="0.440820768619296">
+  <extensions>
+    <ogr:id>6</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.9714398340817" lon="0.441257077150634">
+  <extensions>
+    <ogr:id>3</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971430784508129" lon="0.441693385452312">
+  <extensions>
+    <ogr:id>4</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971421733319254" lon="0.442129693524288">
+  <extensions>
+    <ogr:id>8</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971412680515066" lon="0.442566001366521">
+  <extensions>
+    <ogr:id>9</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971403626095544" lon="0.443002308978971">
+  <extensions>
+    <ogr:id>7</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971170356939332" lon="0.441242426476103">
+  <extensions>
+    <ogr:id>52</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971161307452931" lon="0.44167873216543">
+  <extensions>
+    <ogr:id>54</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971152256351203" lon="0.44211503762506">
+  <extensions>
+    <ogr:id>58</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971143203634213" lon="0.442551342854952">
+  <extensions>
+    <ogr:id>59</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971134149301903" lon="0.442987647855064">
+  <extensions>
+    <ogr:id>56</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.97112509335431" lon="0.443423952625358">
+  <extensions>
+    <ogr:id>57</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.971116035791418" lon="0.443860257165791">
+  <extensions>
+    <ogr:id>64</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970891830382378" lon="0.441664079108246">
+  <extensions>
+    <ogr:id>40</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970882779367834" lon="0.442100381955569">
+  <extensions>
+    <ogr:id>44</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970873726738013" lon="0.442536684573161">
+  <extensions>
+    <ogr:id>46</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970864672492915" lon="0.442972986960978">
+  <extensions>
+    <ogr:id>41</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970855616632534" lon="0.44340928911898">
+  <extensions>
+    <ogr:id>42</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970846559156882" lon="0.443845591047127">
+  <extensions>
+    <ogr:id>49</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970837500065954" lon="0.444281892745378">
+  <extensions>
+    <ogr:id>50</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970828439359764" lon="0.444718194213691">
+  <extensions>
+    <ogr:id>47</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970613302369095" lon="0.442085726515812">
+  <extensions>
+    <ogr:id>29</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970604249826479" lon="0.442522026521143">
+  <extensions>
+    <ogr:id>30</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970595195668572" lon="0.442958326296705">
+  <extensions>
+    <ogr:id>27</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970586139895417" lon="0.443394625842458">
+  <extensions>
+    <ogr:id>28</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970577082506999" lon="0.443830925158359">
+  <extensions>
+    <ogr:id>34</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970568023503318" lon="0.444267224244369">
+  <extensions>
+    <ogr:id>35</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.97055896288439" lon="0.444703523100446">
+  <extensions>
+    <ogr:id>31</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970549900650198" lon="0.445139821726551">
+  <extensions>
+    <ogr:id>32</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970540836800751" lon="0.445576120122641">
+  <extensions>
+    <ogr:id>5</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970334772899577" lon="0.442507368698895">
+  <extensions>
+    <ogr:id>12</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970325718828875" lon="0.442943665862243">
+  <extensions>
+    <ogr:id>10</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970316663142938" lon="0.443379962795786">
+  <extensions>
+    <ogr:id>11</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970307605841747" lon="0.443816259499483">
+  <extensions>
+    <ogr:id>17</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970298546925321" lon="0.444252555973293">
+  <extensions>
+    <ogr:id>18</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970289486393654" lon="0.444688852217175">
+  <extensions>
+    <ogr:id>13</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970280424246738" lon="0.445125148231089">
+  <extensions>
+    <ogr:id>15</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970271360484602" lon="0.445561444014994">
+  <extensions>
+    <ogr:id>55</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970056241973815" lon="0.442929005657585">
+  <extensions>
+    <ogr:id>60</ogr:id>
+  </extensions>
+</wpt>
+<wpt lat="51.970047186375083" lon="0.44336529997896">
+  <extensions>
+    <ogr:id>61</ogr:id>
+  </extensions>
+</wpt>
+</gpx>
