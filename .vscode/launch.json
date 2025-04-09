@@ -18,7 +18,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "justMyCode": false,
+            "justMyCode": false
         },
         {
             "name": "Python: Attach",
