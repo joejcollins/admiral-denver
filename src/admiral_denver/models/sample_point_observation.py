@@ -41,7 +41,6 @@ class SamplePointObservation(BaseModel):
                 data["species"].append(csv_field_value)
             else:
                 data[csv_field_name] = csv_field_value
-
         return cls(**data)
 
     def to_csv(self) -> str:

@@ -1,4 +1,5 @@
 """Standard logger for the project."""
+
 import logging
 
 from admiral_denver.settings import admiral_denver

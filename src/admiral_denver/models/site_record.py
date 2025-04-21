@@ -5,11 +5,11 @@ class SiteRecord(object):
     def __init__(self, site_record_string) -> None:
         """Initialize the site record attributes."""
         super().__init__()
-        self.quadrat = None
-        self.waypoint = None
-        self.grid_reference = None
-        self.photo_up = None
-        self.photo_down = None
+        self.quadrat: dict = {}
+        self.waypoint: dict = {}
+        self.grid_reference: str = ""
+        self.photo_up: str = ""
+        self.photo_down: str = ""
         self.wetness = None
         self.canopy = None
         # self.species = []

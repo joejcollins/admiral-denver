@@ -6,7 +6,6 @@ clean:  # Remove all build, test, coverage and Python artifacts.
 	rm -rf admiral_denver.egg-info
 	find . -name "*.pyc" -exec rm -f {} \;
 	find . -type f -name "*.py[co]" -delete -or -type d -name "__pycache__" -delete
-	rm -rf .R
 
 .PHONY: data
 data:  # Create the combined data sets.
