@@ -90,7 +90,7 @@ class AtlantaShoreSettings:
 
     # region Properties
     @property
-    def observations_files(self, pattern="data-plant*.csv") -> Any:
+    def observations_files(self, pattern: str = "data-plant*.csv") -> Any:
         """Get the list of file names."""
         return self.file_finder.find_data_files(pattern=pattern)
 
