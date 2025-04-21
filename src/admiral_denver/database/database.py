@@ -1,4 +1,5 @@
 """Database held in memory."""
+
 import sqlite3
 
 

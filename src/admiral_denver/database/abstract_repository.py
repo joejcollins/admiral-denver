@@ -1,4 +1,5 @@
 """Abstract Repository."""
+
 import abc
 
 

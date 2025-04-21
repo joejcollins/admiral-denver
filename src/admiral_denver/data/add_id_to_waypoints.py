@@ -1,8 +1,9 @@
-""" Transform GPX
+"""Transform GPX
 
 View Ranger doesn't read the gpx extensions so in order
 to identify sample sites the id element is transformed into
-a gpx field. """
+a gpx field."""
+
 import os
 
 import lxml.etree as ET

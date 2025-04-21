@@ -73,6 +73,7 @@
                 "ms-python.python",
                 "ms-toolsai.jupyter",
                 "ms-vscode.makefile-tools",
+                "sourcery.sourcery",
                 "streetsidesoftware.code-spell-checker",
                 "tamasfe.even-better-toml"
             ]
