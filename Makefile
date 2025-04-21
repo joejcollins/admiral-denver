@@ -8,6 +8,10 @@ clean:  # Remove all build, test, coverage and Python artifacts.
 	find . -type f -name "*.py[co]" -delete -or -type d -name "__pycache__" -delete
 	rm -rf .R
 
+.PHONY: data
+data:  # Create the combined data sets.
+
+
 docker:  # Build the docker image (takes 6 minutes in a Codespace YMMV).
 	docker build \
 		--tag ghcr.io/earthroverprogram/admiral-denver:latest \

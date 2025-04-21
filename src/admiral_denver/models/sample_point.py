@@ -1,7 +1,8 @@
 """Schema for a sampling point."""
 
-from admiral_denver.models import geo_point
 from pydantic import BaseModel
+
+from admiral_denver.models import geo_point
 
 
 class SamplePoint(BaseModel):

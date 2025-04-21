@@ -1,5 +1,5 @@
 {
-    "name": "Python with LaTeX development image",
+    "name": "aqua-marina: Python and LaTeX",
     "image": "ghcr.io/joejcollins/admiral-denver:latest",
     "features": {
         "ghcr.io/devcontainers/features/docker-in-docker:2": {}

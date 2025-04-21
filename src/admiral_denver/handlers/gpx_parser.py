@@ -1,9 +1,10 @@
 """Equivalent of create_dataset.py for importing gox data (for height and location check)."""
 
-import xml.etree.ElementTree as ET
 import csv
 import os
+import xml.etree.ElementTree as ET
 from typing import Any
+
 from admiral_denver.logger import setup_logger
 from admiral_denver.settings import admiral_denver, date_from_gpx_file
 
