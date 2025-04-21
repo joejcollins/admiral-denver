@@ -15,16 +15,16 @@ from OSGridConverter import (
 FILES = ["spains-hall-waypoints-regular-30m-with-name-edited.gpx"]
 
 
-def main():
+def main() -> None:
     """Transform all the files"""
     for gpx_file in FILES:
         transform(gpx_file)
 
 
-def transform(gpx_file):
-    """Convert to CSV"""
+def transform(gpx_file) -> None:
+    """Convert to CSV."""
     dir_path = os.path.dirname(os.path.realpath(__file__))
-    gpx_file_name = os.path.join(dir_path, "../../data/raw/" + gpx_file)
+    gpx_file_name = os.path.join(dir_path, f"../../data/raw/{gpx_file}")
     dom = ET.parse(gpx_file_name)
     namespaces = {"gpx": "http://www.topografix.com/GPX/1/1"}
     sites = dom.xpath("//gpx:wpt", namespaces=namespaces)

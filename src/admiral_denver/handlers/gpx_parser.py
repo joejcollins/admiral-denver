@@ -12,7 +12,10 @@ LOG = setup_logger(__name__)
 
 
 class GPXFileReader:
+    """Class to read GPX files and extract waypoints."""
+
     def __init__(self, gpx_file_path):
+        """Initialize the GPXFileReader with the path to a GPX file."""
         self.tree = ET.parse(gpx_file_path)
         self.root = self.tree.getroot()
         self.ns = {"gpx": "http://www.topografix.com/GPX/1/1"}
@@ -25,8 +28,8 @@ class GPXFileReader:
     def __next__(self):
         try:
             return next(self.waypoint_iter)
-        except StopIteration:
-            raise StopIteration
+        except StopIteration as e:
+            raise StopIteration from e
 
 
 def _get_gpx_field_names(first_gpx_file) -> Any:

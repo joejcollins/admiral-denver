@@ -6,7 +6,7 @@ from admiral_denver.handlers import create_dataset
 from admiral_denver.handlers.gpx_parser import create_gpx_observations
 
 
-def create_datasets():
+def create_datasets() -> None:
     """Recreate the datasets for analysis."""
     create_dataset.create_observations()
     create_dataset.create_records()
@@ -15,13 +15,13 @@ def create_datasets():
     print("Data files for analysis recreated.")
 
 
-def perform_analysis():
+def perform_analysis() -> None:
     """Do some analysis."""
     create_dataset.create_records()
     print("Analysis was rerun.")
 
 
-def main():
+def main() -> None:
     """Entry point for repeating analytical operations."""
     parser = argparse.ArgumentParser(
         description="Beavers and Botany Analysis Command Line Interface"
