@@ -1,16 +1,10 @@
 """SiteRecord class to hold site record information."""
+
 import io
-
-
-
-
-
 
 
 class SiteRecord(object):
     """SiteRecord class to hold site record information."""
-
-
 
     def __init__(self, site_record_string) -> None:
         """Initialize the site record attributes."""
