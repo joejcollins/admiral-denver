@@ -10,7 +10,8 @@ further testing.
 """
 
 from _pytest.monkeypatch import MonkeyPatch
-from admiral_denver import file_finder_service, settings
+from admiral_denver import settings
+from admiral_denver.helpers import file_finder_service
 
 from tests import mock_builtin_file
 

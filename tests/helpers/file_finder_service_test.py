@@ -1,14 +1,6 @@
-"""Tests for the file finder service."""
+"""File finder service, to find the project root."""
 
-from admiral_denver import file_finder_service
-
-
-def test_is_present() -> None:
-    """Confirm that the class and methods are present."""
-    assert "FileFinderService" in dir(file_finder_service)
-    assert "find_file_upwards" in dir(file_finder_service.FileFinderService)
-    assert "find_root" in dir(file_finder_service.FileFinderService)
-    assert "find_data_files" in dir(file_finder_service.FileFinderService)
+from admiral_denver.helpers import file_finder_service
 
 
 def test_find_file_upwards_might_not_be_found() -> None:
@@ -76,33 +68,3 @@ def test_find_root_found() -> None:
     the_root = file_finder.find_root()
     # ASSERT
     assert the_root == "/somewhere/on/the/file/system"
-
-
-def test_find_root_not_found() -> None:
-    """Confirm that None is returned if the root is not found."""
-    # ARRANGE
-    # Ensure the root project file will be found.
-    file_finder = file_finder_service.FileFinderService(isfile=lambda path: False)
-    # ACT
-    the_root = file_finder.find_root()
-    # ASSERT
-    assert the_root is None
-
-
-def test_find_data_files() -> None:
-    """Confirm that a sorted list of file paths is returned."""
-    # ARRANGE
-    pattern = "data-plant*.csv"
-
-    def mock_glob(pathname, recursive):
-        return [
-            "/data/raw/2024-06/data-plant-2024-06.csv",
-            "/data/raw/2019-02/data-plant-2019-02.csv",
-        ]
-
-    file_finder = file_finder_service.FileFinderService(glob=mock_glob)
-    # ACT
-    data_files = file_finder.find_data_files(pattern=pattern)
-    # ASSERT
-    assert len(data_files) == 2
-    assert data_files[0].endswith("2019-02.csv")

@@ -6,7 +6,7 @@ import re
 from pathlib import Path
 from typing import Any
 
-from admiral_denver import file_finder_service
+from admiral_denver.helpers import file_finder_service
 
 
 def date_from_file(file_path: str) -> datetime.date:

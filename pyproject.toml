@@ -5,7 +5,7 @@ authors = [
     { name = "Joe Collins", email = "joejcollins@gmail.com" },
     { name = "Mags Cousins", email = "magscousins@hotmail.com" },
 ]
-description = "Spains Hall data and analysis."
+description = "Spains Hall Python analysis."
 license = { file = "LICENSE" }
 readme = "README.md"
 requires-python = ">=3.10"
@@ -20,6 +20,7 @@ dependencies = [
     "ipykernel",       # required for jupyter notebook in VS Code.
     "ipympl",
     "jupyterlab",
+    "loguru",
     "lxml",            # for parsing GPX files.
     "matplotlib",
     "mkdocs-material", # theme for the documentation.
@@ -28,13 +29,17 @@ dependencies = [
     "OSGridConverter",
     "pandas",
     "pre-commit",
+    "python-dotenv",
     "pydantic",
     "pytest",
     "pytest-cov",
     "radian",
     "ruff",
+    "sourcery",
     "scikit-image",
     "sqlite-web",
+    "tqdm",
+    "types-tqdm",
 ]
 
 [project.urls]

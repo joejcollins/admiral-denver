@@ -30,7 +30,7 @@ lint:  # Lint the code with ruff and sourcery.
 
 lock:  # Create the lock file and requirements file.
 	rm -f requirements.txt
-	uv pip compile pyproject.toml --python .venv/bin/python --output-file=requirements.txt  requirements.in
+	uv pip compile pyproject.toml --python .venv/bin/python --output-file=requirements.txt requirements.in
 
 test:  # Run the unit tests.
 	.venv/bin/pytest ./tests --verbose --color=yes
